@@ -86,7 +86,7 @@
 	"ITEM_MUSHROOM_LORE": "<style=cMono>\r\n\/\/--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/<\/style>\r\n\r\n\u201CYou have a problem.\u201D\r\n\r\n\u201CWhat? How? These are good for me, they\u2026\u201D\r\n\r\n\u201CYeah, they help promote cell repair, carbon neutral, blah blah blah\u2026 I\u2019ve heard that spiel a thousand times already. Whether they\u2019re good for you or not, you can\u2019t just have a diet consisting only of them. It\u2019s basic dietary science!\u201D\r\n\r\n\u201CSo what?\u201D\r\n\r\n\u201CSo what? Eating only mushrooms isn\u2019t healthy, just like eating only meat or vegetables isn\u2019t healthy!\u201D\r\n\r\n\u201COh, so you\u2019re attacking vegetarians, now?\u201D\r\n\r\n\u201CWh- No! I just mean--\u201D\r\n\r\n\u201CWell, when you\u2019re a bit more tolerant of my lifestyle, I\u2019d be glad to continue this conversation with you. Until then, I\u2019d suggest you open your heart and appetite to a more\u2026 fungal\u2026 palette.\u201D \r\n",
 
 	"ITEM_CROWBAR_NAME": "Crowbar",
-	"ITEM_CROWBAR_PICKUP": "Deal <style=cIsDamage>+75%</style> <style=cStack>(+75% per stack)</style> damage to enemies above <style=cIsDamage>90% health</style>.",   
+	"ITEM_CROWBAR_PICKUP": "Deal <style=cIsDamage>+75%</style> <style=cStack>(+75% per stack)</style> damage to enemies above <style=cIsDamage>90% health</style>.", 
 	"ITEM_CROWBAR_DESC": "Deal <style=cIsDamage>+75%</style> <style=cStack>(+75% per stack)</style> damage to enemies above <style=cIsDamage>90% health</style>.",   
 	"ITEM_CROWBAR_LORE": "<style=cMono>\r\n\/\/--AUTO-TRANSCRIPTION FROM CARGO BAY 5 OF UES [Redacted] --\/\/<\/style>\r\n\r\n\u201CHey, toss me a crowbar?\u201D\r\n\r\nJesse walked over to the toolbox and rummaged around. Plucking a crowbar from the container, she went over to James.\r\n\r\n\u201CThanks,\u201D he grunted, attempting to pry the chest open. Jesse sat herself on the table next to James, idly watching him work. \u201CI swear, this had to be the one chest that CAN\u2019T be paid open... Crash must have... broken the circuitry inside.\u201D James mumbled to himself.\r\n\r\n\u201CYeah.\u201D Jesse looked around, her eyes falling on a palette of chests that had been recovered from the recent expeditions. Sighing, she hopped to her feet. \u201CI\u2019m heading to the mess hall. Want anything?\u201D \r\n\r\n\u201CYeah, how about a better crowbar? This thing is only a second edition.\u201D James stretched, tossing the crowbar over his shoulder. Patting the still unopened chest, he chuckled. \u201CIt\u2019s good, but to be honest\u2026 it\u2019s getting a little old.\u201D\r\n\r\nJesse laughed.\r\n",
 
@@ -111,7 +111,7 @@
 	"ITEM_FALLBOOTS_LORE": "\"Denizens of lower-gravity planets like Mercury historically have had trouble adjusting to life on other planets. Mercurians, with their lower bone density (left) would typically shatter their femur within a week on heavier planets. Members of asteroid-rigged flotillas and colony ships have similar issues when arriving home from space.\r\n\r\nThe invention of Kinetic Dispersion Rings (above) help alleviate the stress of heavier-than-normal gravity by converting kinetic energy into heat, sound, and light. Settlers from Mercury could finally leave their home planet in safety.\"\r\n\r\n-Mercurian History Museum\r\n",
 
 	"ITEM_COOLDOWNONCRIT_NAME": "Wicked Ring",
-	"ITEM_COOLDOWNONCRIT_PICKUP": "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical strikes</style> reduces all your <style=cIsUtility>cooldowns</style> by <style=cIsUtility>1</style>.",
+	"ITEM_COOLDOWNONCRIT_PICKUP": "'Critical Strikes' reduce cooldowns by 1 second.",
 	"ITEM_COOLDOWNONCRIT_DESC": "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical strikes</style> reduces all your <style=cIsUtility>cooldowns</style> by <style=cIsUtility>1</style>.",
 
 	"ITEM_WARDONLEVEL_NAME": "Warbanner",
@@ -286,8 +286,8 @@
 	"ITEM_EXTRALIFE_LORE": "Hey Dio,\r\n\r\nWow, you have gotten older since the last time I wrote! How old are you now \u2013 10? And so much grumpier, too. I\u2019ve never seen a cat so grumpy. What do you have to be grumpy about?\r\n\r\nDespite the fact that you are the pickiest eater I know \u2013 and love to meow all throughout the night, every night \u2013 it still makes me happy to hear you bounding down the stairs every time I come home. I like when I wake up and I see you sleeping across from me. I like when you sit at the dining table, like you\u2019re going to eat with us too. I like how you hit the power button every time you walk across my laptop. I like how shamelessly needy you are.\r\n\r\nPlease live a long life \u2013 I\u2019m needy too, and I\u2019d like that a lot.\r\n\r\nLove,\r\nDuncan\r\n\r\nPS would it kill you to purr for mama every now and then?\r\n",
 	
 	"ITEM_EXTRALIFECONSUMED_NAME": "Dio's Best Friend (Consumed)",
-	"ITEM_EXTRALIFECONSUMED_PICKUP": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-	"ITEM_EXTRALIFECONSUMED_DESC": "Fuck you.",
+	"ITEM_EXTRALIFECONSUMED_PICKUP": "<color=#FF7F7F>https://youtu.be/dQw4w9WgXcQ<color>",
+	"ITEM_EXTRALIFECONSUMED_DESC": "A spent item with no remaining power.",
 	
 	"ITEM_UTILITYSKILLMAGAZINE_NAME": "Hardlight Afterburner",
 	"ITEM_UTILITYSKILLMAGAZINE_PICKUP": "Add <style=cIsUtility>+2</style> <style=cStack>(+2 per stack)</style> charges of your <style=cIsUtility>Utility skill</style>. <style=cIsUtility>Reduces Utility skill cooldown</style> by <style=cIsUtility>33%</style>.",
@@ -310,7 +310,7 @@
 	"ITEM_INCREASEHEALING_LORE" : "\"Nature has a way of nurturing the physical. The mind, by perseverance and dedication. The soul, however... is healed by fantasy, and fantasy alone.\"\r\n-Unknown Venetian monk\r\n",
 
 	"ITEM_REPEATHEAL_NAME": "Corpsebloom",
-	"ITEM_REPEATHEAL_PICKUP": "<style=cIsHealing>Heal +100%</style> <style=cStack>(+100% per stack)</style> more. <style=cIsHealing>All healing is applied over time</style>. Can <style=cIsHealing>heal</style> for a <style=cIsHealing>maximum</style> of <style=cIsHealing>10%</style> <style=cStack>(-50% per stack)</style> of your <style=cIsHealing>health per second</style>.",	
+	"ITEM_REPEATHEAL_PICKUP": "<style=cIsHealing>Heal +100%</style> <style=cStack>(+100% per stack)</style> more. <style=cIsHealing>All healing is applied over time</style>. Can <style=cIsHealing>heal</style> for a <style=cIsHealing>maximum</style> of <style=cIsHealing>10%</style> <style=cStack>(-50% per stack)</style> of your <style=cIsHealing>health per second</style>.",
 	"ITEM_REPEATHEAL_DESC": "<style=cIsHealing>Heal +100%</style> <style=cStack>(+100% per stack)</style> more. <style=cIsHealing>All healing is applied over time</style>. Can <style=cIsHealing>heal</style> for a <style=cIsHealing>maximum</style> of <style=cIsHealing>10%</style> <style=cStack>(-50% per stack)</style> of your <style=cIsHealing>health per second</style>.",	
 	"ITEM_REPEATHEAL_LORE": "========================================\r\n====   MyBabel Machine Translator   ====\r\n====     [Version 12.45.1.009 ]   ======\r\n========================================\r\nTraining\u2026 <100000000 cycles>\r\nTraining\u2026 <253421 cycles>\r\nComplete!\r\nDisplay result? Y\/N\r\nY\r\n========================================\r\n\r\nThe body is received and placed in a special containment unit. Proper care must be taken to ensure most efficient growth conditions.\r\n\r\nThe seeds are planted in the body.\r\n\r\nOne day passes.\r\n\r\nFlesh softens and stretches. Youth returns to the face. Bones harden.\r\n\r\nAnother day passes.\r\n\r\nDead skin falls away from the body, and muscles gain strength. Hair resumes its original luster.\r\n\r\nAnother day passes.\r\n\r\nThe flowers have fully bloomed and the body is as good as new.\r\n\r\nNo signs of life, but not necessary.\r\n",
 	
@@ -374,7 +374,7 @@
 	"ITEM_LUNARUTILITYREPLACEMENT_LORE" : "\u201CHer legs were scattered to the two poles of the moon, twisted in a wicked position, in a field of obsidian thorns\u2026\"\r\n\r\n-The Evisceration of Kur-skan the Heretic, V\r\n",
 
 	"ITEM_PROTECTIONPOTION_NAME" : "Gold Flask",
-	"ITEM_PROTECTIONPOTION_PICKUP" : "Gain a <style=cIsHealing>temporary barrier</style> for <style=cIsHealing>100% of your health</style> when falling below <style=cIsHealth>30% health</style>.",
+	"ITEM_PROTECTIONPOTION_PICKUP" : "Gain a massive barrier at low health. Consumed on use.",
 	"ITEM_PROTECTIONPOTION_DESC" : "Gain a <style=cIsHealing>temporary barrier</style> for <style=cIsHealing>100% of your health</style> when falling below <style=cIsHealth>30% health</style>.",
 	
 	"ITEM_THORNS_NAME" : "Razorwire",
@@ -620,7 +620,7 @@
 	"ITEM_REGENERATINGSCRAP_LORE" : "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\n\"Hey, Joe, how's the work in engineering?\"\n\n\"Terrible. We have a shipment of this... weird, prototype material. Some kind of metal? They want us to make stuff out of it, which isn't too bad. Thing is, no matter how much I take, there always seems to be more. Did you know I made twenty-five hundred units of .300 caliber rounds from a 10 kilo crate of metal?\"\n\n\"How much!?\"\n\n\"Right!? I feel like I'm losing my mind. It's not even half-way empty. Hell, I bet there's more in there than when I started!\"\n\n\"Well, at least you won't have to worry about running out...\"",
 
 	"ITEM_REGENERATINGSCRAPCONSUMED_NAME" : "Regenerating Scrap (Consumed)",
-	"ITEM_REGENERATINGSCRAPCONSUMED_PICKUP" : "At the start of each stage, it transforms into Regenerating Scrap.",
+	"ITEM_REGENERATINGSCRAPCONSUMED_PICKUP" : "https://youtu.be/Ggv2k-8QOCg",
 	"ITEM_REGENERATINGSCRAPCONSUMED_DESC": "At the start of each stage, it transforms into Regenerating Scrap.",
 
 	"ITEM_CRITGLASSESVOID_NAME": "Lost Seer's Lenses",
@@ -629,8 +629,8 @@
 	"ITEM_CRITGLASSESVOID_LORE": "\"What does it mean to see?\n\nTo a beast, it means to identify potential food and mates. To propagate, to survive. Sight is nothing more than a means to an end, is it not?\n\nTo someone like me... To those who know true purpose... To see is to LIVE. To see is to spot that one little crack in the enemy's armor, to spot that smallest moment of hesitation when they rear back to strike.\n\nTo see the way flesh folds once the skull gives in to your weapon.\n\nYes, it's the little things, but seeing those things... REALLY seeing them. Ah, it fulfills you. I do hope you understand... And if not, you will eventually, if you've read this note.\"\n\n- Lost Journal, recovered from Petrichor V",
 
 	"ITEM_EXPLODEONDEATHVOID_NAME": "Voidsent Flame",
-	"ITEM_EXPLODEONDEATHVOID_PICKUP": "Upon hitting an enemy above <style=cIsDamage>90% health</style>, spawn a <style=cIsDamage>lava pillar</style> in a <style=cIsDamage>12m</style> <style=cStack>(+2.4m per stack)</style> radius for <style=cIsDamage>350%</style> <style=cStack>(+280% per stack)</style> base damage. <style=cIsVoid>Corrupts all Will-o'-the-wisps</style>.",
-	"ITEM_EXPLODEONDEATHVOID_DESC": "Upon hitting an enemy above <style=cIsDamage>90% health</style>, spawn a <style=cIsDamage>lava pillar</style> in a <style=cIsDamage>12m</style> <style=cStack>(+2.4m per stack)</style> radius for <style=cIsDamage>350%</style> <style=cStack>(+280% per stack)</style> base damage. <style=cIsVoid>Corrupts all Will-o'-the-wisps</style>.",
+	"ITEM_EXPLODEONDEATHVOID_PICKUP": "Upon hitting an enemy at or above <style=cIsDamage>100% health</style>, <style=cIsDamage>detonate</style> them in a <style=cIsDamage>12m</style> <style=cStack>(+2.4m per stack)</style> radius burst for <style=cIsDamage>260%</style> <style=cStack>(+156% per stack)</style> base damage. <style=cIsVoid>Corrupts all Will-o'-the-wisps</style>.",
+	"ITEM_EXPLODEONDEATHVOID_DESC": "Upon hitting an enemy at or above <style=cIsDamage>100% health</style>, <style=cIsDamage>detonate</style> them in a <style=cIsDamage>12m</style> <style=cStack>(+2.4m per stack)</style> radius burst for <style=cIsDamage>260%</style> <style=cStack>(+156% per stack)</style> base damage. <style=cIsVoid>Corrupts all Will-o'-the-wisps</style>.",
 	"ITEM_EXPLODEONDEATHVOID_LORE": "========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining... <100000000 cycles>\nTraining... <102515 cycles>\nComplete!\nDisplay result? Y/N\nY\n========================================\n\nWe take kindling and throw it in the fire.\n\nThe fire is pleased. The fire grows.\n\nWe take fruit and throw it in the fire.\n\nThe fire loves this gift. Embers pop from the fire and perform dances of joy before fading. Compounds inside the fruit are undone, returning to their base components. There are so many colors. So much energy.\n\nWe take a body and throw it into the fire. It will not be missed. He has more to spare.\n\nThe fire loves this gift. Fat in the body burns, producing a rainbow of beautiful hues in the flame. Muscles contract and snap, stimulated by the gnawing heat. The fire claims its meal, and returns it to energy.\n\nSo much energy. I believe I can work with this.",
 	
 	"ITEM_BLEEDONHITVOID_NAME": "Needletick",
